@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+.idea/
+.DS_Store
+checkpoints/
+test_results/
+*.pth
+*.pt
+*.csv
+*.xlsx
